@@ -50,3 +50,23 @@ html, body {
 .gallery img{
   border-radius: 5%;
 }
+
+.services{
+  color: #FFFFFF;
+}
+
+footer{
+  color: #FFFFFF;
+  font-size: 1rem;
+  margin: 0;
+  padding: 1rem;
+}
+
+a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #D72323;
+}
