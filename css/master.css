@@ -67,6 +67,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.hov:hover{
   color: #D72323;
 }
